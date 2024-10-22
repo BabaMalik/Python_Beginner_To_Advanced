@@ -1,7 +1,7 @@
 # String Manipulation
 
 #### Write a Function to reverse the words in a sentence.
-#### Write a Pythonprogram to check if two strings are anagrams.
+#### Write a Python program to check if two strings are anagrams.
 #### Implement a function to find the first non-repeating character in a string.
 #### Write a python function to remove all volwels from a string.
 #### Write a Python function to check if a string has all Unique Characters.
