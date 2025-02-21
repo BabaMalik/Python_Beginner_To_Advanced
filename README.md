@@ -151,8 +151,6 @@ Feel free to contribute by improving the repository, adding exercises, or fixing
 ## 📢 Contact
 If you have any questions, feel free to reach out!
 
-📧 **Email:** [your_email@example.com](mailto:your_email@example.com)
-
-🌐 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
+🌐 **LinkedIn:** [Your Profile](https://linkedin.com/in/babamalik)
 
 Happy Learning & Coding! 🚀
